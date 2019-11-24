@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="18" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TOOTRis_automation" duration-ms="11564" started-at="2019-11-24T21:56:00Z" finished-at="2019-11-24T21:56:12Z">
+    <groups>
+    </groups>
+    <test name="TOOTRiS_automation test" duration-ms="11564" started-at="2019-11-24T21:56:00Z" finished-at="2019-11-24T21:56:12Z">
+      <class name="com.tootris.testcases.TC_004_HomepageAddsection1">
+        <test-method status="PASS" signature="addsections()[pri:12, instance:com.tootris.testcases.TC_004_HomepageAddsection1@1ce92674]" name="addsections" duration-ms="481" started-at="2019-11-24T13:56:12Z" finished-at="2019-11-24T13:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addsections -->
+      </class> <!-- com.tootris.testcases.TC_004_HomepageAddsection1 -->
+      <class name="com.tootris.testcases.TC_001_Homepage_Attributes">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tootris.testcases.TC_001_Homepage_Attributes@3fee9989]" name="setUp" is-config="true" duration-ms="41041" started-at="2019-11-24T13:55:19Z" finished-at="2019-11-24T13:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="titleVerification()[pri:1, instance:com.tootris.testcases.TC_001_Homepage_Attributes@3fee9989]" name="titleVerification" duration-ms="45" started-at="2019-11-24T13:56:02Z" finished-at="2019-11-24T13:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerification -->
+        <test-method status="PASS" signature="verifyHomePagewhytootrisAttribute()[pri:2, instance:com.tootris.testcases.TC_001_Homepage_Attributes@3fee9989]" name="verifyHomePagewhytootrisAttribute" duration-ms="142" started-at="2019-11-24T13:56:02Z" finished-at="2019-11-24T13:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePagewhytootrisAttribute -->
+        <test-method status="PASS" signature="verifyHomePageaboutusAttribute()[pri:3, instance:com.tootris.testcases.TC_001_Homepage_Attributes@3fee9989]" name="verifyHomePageaboutusAttribute" duration-ms="84" started-at="2019-11-24T13:56:02Z" finished-at="2019-11-24T13:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageaboutusAttribute -->
+        <test-method status="PASS" signature="verifyHomePageloginAttribute()[pri:4, instance:com.tootris.testcases.TC_001_Homepage_Attributes@3fee9989]" name="verifyHomePageloginAttribute" duration-ms="85" started-at="2019-11-24T13:56:02Z" finished-at="2019-11-24T13:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageloginAttribute -->
+        <test-method status="PASS" signature="verifyHomepagesignup()[pri:5, instance:com.tootris.testcases.TC_001_Homepage_Attributes@3fee9989]" name="verifyHomepagesignup" duration-ms="64" started-at="2019-11-24T13:56:02Z" finished-at="2019-11-24T13:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepagesignup -->
+        <test-method status="PASS" signature="verifyHomePagehelpAttribute()[pri:6, instance:com.tootris.testcases.TC_001_Homepage_Attributes@3fee9989]" name="verifyHomePagehelpAttribute" duration-ms="69" started-at="2019-11-24T13:56:02Z" finished-at="2019-11-24T13:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePagehelpAttribute -->
+        <test-method status="PASS" signature="verifyHomePageappstoreAttribute()[pri:7, instance:com.tootris.testcases.TC_001_Homepage_Attributes@3fee9989]" name="verifyHomePageappstoreAttribute" duration-ms="46" started-at="2019-11-24T13:56:02Z" finished-at="2019-11-24T13:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageappstoreAttribute -->
+        <test-method status="PASS" signature="verifyHomePageplaystoreAttribute()[pri:8, instance:com.tootris.testcases.TC_001_Homepage_Attributes@3fee9989]" name="verifyHomePageplaystoreAttribute" duration-ms="48" started-at="2019-11-24T13:56:02Z" finished-at="2019-11-24T13:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageplaystoreAttribute -->
+        <test-method status="PASS" signature="dateverification()[pri:9, instance:com.tootris.testcases.TC_001_Homepage_Attributes@3fee9989]" name="dateverification" duration-ms="387" started-at="2019-11-24T13:56:02Z" finished-at="2019-11-24T13:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateverification -->
+      </class> <!-- com.tootris.testcases.TC_001_Homepage_Attributes -->
+      <class name="com.tootris.testcases.TC_003_Homepage_Popularsection">
+        <test-method status="PASS" signature="popularsection()[pri:11, instance:com.tootris.testcases.TC_003_Homepage_Popularsection@7085bdee]" name="popularsection" duration-ms="1248" started-at="2019-11-24T13:56:10Z" finished-at="2019-11-24T13:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popularsection -->
+      </class> <!-- com.tootris.testcases.TC_003_Homepage_Popularsection -->
+      <class name="com.tootris.testcases.TC_002_Homepage_Locations">
+        <test-method status="PASS" signature="Locations()[pri:10, instance:com.tootris.testcases.TC_002_Homepage_Locations@73ad2d6]" name="Locations" duration-ms="7574" started-at="2019-11-24T13:56:03Z" finished-at="2019-11-24T13:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Locations -->
+      </class> <!-- com.tootris.testcases.TC_002_Homepage_Locations -->
+    </test> <!-- TOOTRiS_automation test -->
+  </suite> <!-- TOOTRis_automation -->
+</testng-results>

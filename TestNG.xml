@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TOOTRis_automation" >
+    <listeners>
+        <listener class-name="com.tootris.utilities.Reporting"></listener>   	
+    </listeners>
+    <test name="TOOTRiS_automation test">
+        <parameter name="browser" value="chrome"> </parameter>
+        <classes>
+      	<class name="com.tootris.testcases.TC_001_Homepage_Attributes"></class>
+      	<class name="com.tootris.testcases.TC_002_Homepage_Locations"></class>
+      	<class name="com.tootris.testcases.TC_003_Homepage_Popularsection"></class>
+      	<class name="com.tootris.testcases.TC_004_HomepageAddsection1"></class>
+        </classes>
+    </test>
+</suite>
